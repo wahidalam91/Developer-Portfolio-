@@ -81,10 +81,12 @@ main{
     margin: 0 auto;
 
 }
+
+section{
+    margin-top: 130px;
+}
 /* About Section Styles */
 .about-me{
-    
-    margin-top: 130px;
     background: #FFF8F3;
     border-radius: 10px;
     padding: 130px 150px;
@@ -94,7 +96,7 @@ main{
 .section-title{
     font-weight: 700;
     font-size: 35px;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
     text-align: center;
 }
 
@@ -123,8 +125,7 @@ main{
 /* What I Do styles */
 
 .what-i-do{
-    margin-top: 130px;
-    border-radius: 10px;
+     border-radius: 10px;
 }
 
 .skills-container{
@@ -150,3 +151,5 @@ main{
     font-size: 16px;
     color: #757575;
 }
+
+/* Resume Styles */
