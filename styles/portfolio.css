@@ -17,6 +17,18 @@
     border-radius: 5px;
     padding: 18px 36px;
 }
+.btn-contact{
+    height: 64px;
+    font-weight: 700px;
+    font-size: 20px;
+    color:#FD6E0A;
+    background-color: transparent;
+    border: 1px solid #FD6E0A;
+    border-radius: 5px;
+    padding: 18px 36px;
+    margin-left: 5px;
+}
+
 /* Header and Navigation Styles */
 .header-section{
    background-color: #FFF8F3;
